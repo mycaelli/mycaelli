@@ -1,4 +1,5 @@
 # **WELCOME** 👋
+<!--
 
 ### :tipping_hand_woman: Here you will find some cool facts about me :tipping_hand_woman:
 ###### :point_right: I went to university to study fashion and, somehow along the way, found myself going towards the programming world :computer:
@@ -13,7 +14,6 @@
 ### How to reach me :telephone_receiver:
 This is my [linkedin page](https://www.linkedin.com/in/mycaelli-cerqueira/)
 
-<!--
 **mycaelli/mycaelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
