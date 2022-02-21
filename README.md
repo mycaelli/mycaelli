@@ -13,7 +13,6 @@
 ### How to reach me :telephone_receiver:
 This is my [linkedin page](https://www.linkedin.com/in/mycaelli-cerqueira/)
 
-[bye]("https://giphy.com/embed/l396M3jF14DXr9mog" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bye-see-ya-adios-l396M3jF14DXr9mog")
 <!--
 **mycaelli/mycaelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
