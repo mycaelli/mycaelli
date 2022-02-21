@@ -1,6 +1,6 @@
 # WELCOMEEE 👋
 
-### Here you will find some cool facts about me
+### Here you will find some cool facts about me :tipping_hand_woman:
 ###### :point_right: I went to university to study Fashion and, somehow along the way, found myself going towards the programming world
 ###### :point_right: I have two crazy cats :kissing_cat: :kissing_cat:
 ###### :point_right: I hate coffee :coffee:
