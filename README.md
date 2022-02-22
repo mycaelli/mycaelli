@@ -1,8 +1,14 @@
-## Hello!! **WELCOME** to my Github profile 👋
-### my name is Mycaelli !
+# **Hello!!** 
+## Welcome to my Github profile 👋
+### My name is Mycaelli !
 
 ## 🌱 I’m currently learning ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <!--
 
 ### :tipping_hand_woman: Here you will find some cool facts about me :tipping_hand_woman:
