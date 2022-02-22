@@ -1,6 +1,6 @@
 # Welcome to my Github profile 👋 My name is Mycaelli !
 #
-### ⚡ Fact about me ...
+### 😄 Facts about me ...
 ##### I went to university to study fashion and, somehow along the way, found myself going towards the programming world :computer:
 ##### I am currently doing my bachelor's degree in Information Systems at the University of São Paulo :woman_student:
 ##### I am super involved in gender bias matters in technology and incentivating other women to enter the field is my passion :two_hearts:
@@ -10,11 +10,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 #
 #
-### 🤔 Some stats here ...
+### ⚡ Some stats here ...
 <div>
 <a href="https://github.com/mycaelli">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycaelli&layout=compact&langs_count=7&theme=dracula"/>
 #
+  
+
 ### 📫 How to reach me: ...
 <div>
 <a href = "mycaelli@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
