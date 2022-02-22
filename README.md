@@ -1,4 +1,8 @@
-# **WELCOME** 👋
+## Hello!! **WELCOME** to my Github profile 👋
+### my name is Mycaelli !
+
+## 🌱 I’m currently learning ...
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <!--
 
 ### :tipping_hand_woman: Here you will find some cool facts about me :tipping_hand_woman:
