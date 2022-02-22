@@ -1,6 +1,5 @@
 # Welcome to my Github profile 👋 My name is Mycaelli !
 #
-#
 ### ⚡ Fact about me ...
 ##### I went to university to study fashion and, somehow along the way, found myself going towards the programming world :computer:
 ##### I am currently doing my bachelor's degree in Information Systems at the University of São Paulo :woman_student:
@@ -15,7 +14,6 @@
 <div>
 <a href="https://github.com/mycaelli">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycaelli&layout=compact&langs_count=7&theme=dracula"/>
-#
 #
 ### 📫 How to reach me: ...
 <div>
