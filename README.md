@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/mycaelli-cerqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/mycaelli/mycaelli/blob/output/github-contribution-grid-snake.svg)
 <!--
 
 ### :tipping_hand_woman: Here you will find some cool facts about me :tipping_hand_woman:
