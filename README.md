@@ -1,4 +1,4 @@
-# Welcome to my Github profile 👋 My name is Mycaelli !
+# Welcome to my Github profile 👋 My name is Myca !
 #
 ### 😄 Facts about me ...
 ##### I went to university to study fashion and, somehow along the way, found myself going towards the programming world :computer:
