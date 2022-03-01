@@ -3,6 +3,7 @@
 ### 😄 Facts about me ...
 ##### I went to university to study fashion and, somehow along the way, found myself going towards the programming world :computer:
 ##### I am currently doing my bachelor's degree in Information Systems at the University of São Paulo :woman_student:
+##### I am a cadet at 42 São Paulo :earth_americas:
 ##### I am super involved in gender bias matters in technology and incentivating other women to enter the field is my passion :two_hearts:
 #
 #
