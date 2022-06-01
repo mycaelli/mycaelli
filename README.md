@@ -15,8 +15,6 @@
 <div>
 
 </div>
-#
-#
 ### 📫 How to reach me ...
 <div>
 <a href = "mailto:mycaelli@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,7 +22,7 @@
 </div>
   
  <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mycaelli)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mycaelli)
  </div>
 
 <!--
