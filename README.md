@@ -13,9 +13,8 @@
 #
 ### ⚡ Some stats here ...
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mycaelli)](https://github.com/mycaelli/github-readme-stats)
 
-  
+</div>
 #
 #
 ### 📫 How to reach me ...
@@ -23,6 +22,10 @@
 <a href = "mailto:mycaelli@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mycaelli-cerqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+ <div>
+ ![](https://visitor-badge.laobi.icu/badge?page_id=mycaelli)
+ </div>
 
 <!--
 
