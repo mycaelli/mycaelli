@@ -13,8 +13,7 @@
 #
 ### ⚡ Some stats here ...
 <div>
-<a href="https://github.com/mycaelli">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycaelli&layout=compact&langs_count=7&theme=dracula"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mycaelli)](https://github.com/mycaelli/github-readme-stats)
 
   
 #
