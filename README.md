@@ -24,7 +24,7 @@
 </div>
   
  <div>
- ![](https://visitor-badge.laobi.icu/badge?page_id=mycaelli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mycaelli)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 
 <!--
