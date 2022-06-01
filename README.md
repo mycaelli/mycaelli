@@ -22,7 +22,7 @@
 </div>
   
  <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mycaelli&theme=tokyonight)
+<a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=mycaelli&theme=tokyonight">
  </div>
 
 <!--
